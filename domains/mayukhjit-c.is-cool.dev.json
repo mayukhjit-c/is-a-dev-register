@@ -1,0 +1,13 @@
+{
+    "description": "Personal subdomain for mayukhjit-c",
+    "domain": "is-cool.dev",
+    "subdomain": "mayukhjit-c",
+    "owner": {
+        "repo": "https://github.com/mayukhjit-c",
+        "email": "cinderallem@gmail.com"
+    },
+    "record": {
+        "A": ["1.2.3.4"]
+    },
+    "proxied": false
+}
