@@ -1,0 +1,13 @@
+{
+    "description": "Personal subdomain for mayukhjitchakraborty",
+    "domain": "is-not-a.dev",
+    "subdomain": "mayukhjitchakraborty",
+    "owner": {
+        "repo": "https://github.com/mayukhjit-c",
+        "email": "cinderallem@gmail.com"
+    },
+    "record": {
+        "A": ["1.2.3.4"]
+    },
+    "proxied": false
+}
